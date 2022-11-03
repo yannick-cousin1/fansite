@@ -201,6 +201,10 @@ video {
       width: 40%;
 }
 
+.contact {
+      margin-top: 15%;
+      margin-bottom: 15%;
+}
 
 form {
   margin: 0 auto;
@@ -208,12 +212,14 @@ form {
   height: 15em;
   padding: 1em;
   padding-top: 5em;
+
   border: 1px solid #CCC;
   border-radius: 1em;
 }
 
 form div + div {
   margin-top: 1em;
+
 }
 
 label {
@@ -249,4 +255,6 @@ button {
 
 .event {
       font-size: 2em;
+      margin-bottom: 25%;
+      margin-top: 5%;
 }
